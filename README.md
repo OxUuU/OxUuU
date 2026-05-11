@@ -1,6 +1,6 @@
 # Hi, I'm Onur 👋
 
-Software Engineer based in Istanbul. Just finished my B.Sc. in Software Engineering at Maltepe University (Jan 2026).
+Software Engineer based in Istanbul.
 
 ---
 
