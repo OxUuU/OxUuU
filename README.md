@@ -22,7 +22,7 @@ I'm currently open to **junior backend, AI/ML, or hybrid software/IT roles**.
 
 ### 💼 Quick history
 
-- **Schneider Electric** — *IT Specialist (Part-Time)* · Jul 2024 – Jan 2025 · Istanbul
+- **Schneider Electric** — *IT Specialist* · Jul 2024 – Jan 2025 · Istanbul
   ServiceNow inventory & licensing for Turkey + Central Asia · network and end-user support · infra documentation.
 
 - **Maltepe University** — *B.Sc. Software Engineering* · 2022 – Jan 2026
